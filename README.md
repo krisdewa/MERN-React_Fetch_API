@@ -1,5 +1,4 @@
-## Fetching API from 
-https://github.com/krisdewa/Express.js-REST_API
+### Consume API from : https://github.com/krisdewa/Express.js-REST_API
 
 ## Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
